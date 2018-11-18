@@ -10,6 +10,12 @@ require 'rails_helper'
 #     end
 #   end
 # end
+<<<<<<< HEAD
 # RSpec.describe CouponsHelper, type: :helper do
 #   pending "add some examples to (or delete) #{__FILE__}"
 # end
+=======
+RSpec.describe CouponsHelper, type: :helper do
+  pending "add some examples to (or delete) #{__FILE__}"
+end
+>>>>>>> 21cd5372ba607a6b292c105017d0218e446f7b6d
